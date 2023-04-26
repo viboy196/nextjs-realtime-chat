@@ -1,6 +1,6 @@
 # FriendZone - A full-stack realtime messaging chat application
 
-A project to learn modern full-stack development made by Josh.
+A project to learn modern full-stack development made Dan Nguyen
 
 ## Features
 
@@ -18,10 +18,6 @@ A project to learn modern full-stack development made by Josh.
 - Class merging with tailwind-merge
 - Conditional classes with clsx
 - Variants with class-variance-authority
-
-## Things I forgot in the video
-- [Adding metadata to some pages](https://github.com/joschan21/nextjs-realtime-chat/blob/master/src/app/(dashboard)/dashboard/chat/%5BchatId%5D/page.tsx)
-- [Adding a favicon](https://github.com/joschan21/nextjs-realtime-chat/blob/master/public/favicon.ico)
 
 ## Acknowledgements
 
